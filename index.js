@@ -279,7 +279,7 @@ scheduleGc();
 
 const ramCheck = setInterval(() => {
       var ramUsage = process.memoryUsage().rss
-      if (ramUsage >= 480000) { // 1 GB
+      if (ramUsage >= 480000) { // 0.5 GB
          clearInterval(ramCheck)
          process.send('reset')
       }
