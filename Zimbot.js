@@ -178,7 +178,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -197,7 +197,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
  hydratedButtons: content,
 },
 },
@@ -216,7 +216,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -235,7 +235,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -254,7 +254,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -273,7 +273,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -290,7 +290,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -312,7 +312,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -331,7 +331,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -350,7 +350,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -369,7 +369,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -388,7 +388,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -3686,7 +3686,7 @@ let caption = `
 *◉Sɪᴢᴇ :* ${anu.filesize}
 *◉Uʀʟ :* ${anu.url}
 *◉Dᴇꜱᴄʀɪᴘᴛɪᴏɴ :* ${anu.description}
- ©ᴢɪᴍʙᴏᴛɪɴᴄ
+ ©ᴄᴀꜱᴛʟᴇᴠɴɪᴀ 
 
 `
 message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { upload:   ZimBotInc.waUploadToServer })
@@ -3694,7 +3694,7 @@ let buttonMessage = {
         image: buf,
         jpegThumbnail:buf,
         caption: caption,
-        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
         buttons: muziq,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -4005,7 +4005,7 @@ case 'ytsaudio': case 'ytsmusic': case 'ytsearchmusic': {
                         m.chat, 
                         {
                         text: `*ϙᴜᴇʀʏ:* \n${text}🎛️`,
-                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
+                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023` ,
                         title: `*ʏᴏᴜᴛᴜʙᴇ sᴇᴀʀᴄʜ*`,
                         buttonText: "CLICK HERE",
                         sections
@@ -6150,7 +6150,7 @@ let buttoni = [
         fileName: `CASTLE BOT INC`,
         fileLength: 99999999999999,
         caption: anu,
-        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
         buttons: buttoni,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -7020,7 +7020,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7114,7 +7114,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7200,7 +7200,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7269,7 +7269,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7359,7 +7359,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7427,7 +7427,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7491,7 +7491,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7567,7 +7567,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
@@ -7627,7 +7627,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴄᴀꜱᴛʟᴇᴠɴɪᴀ  2023`,
 hydratedButtons: content,
 },
 },
