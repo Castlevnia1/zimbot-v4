@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <a href="https://youtube.com/@zim-bot"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@zim-bot" /><br>
 
-# ZIM BOT V4
+# CHITOGE BOT
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtube.com/@zim-bot)
@@ -84,7 +84,7 @@ echo scan the qr code and enjoy bot
 =======
 <a href="https://youtu.be/v1UL3fB3bK0"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link="https://youtu.be/v1UL3fB3bK0" /><br>
 
-# ZIM BOT V4 NEW UPDATE
+# CHITOGE BOT NEW UPDATE
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/v1UL3fB3bK0)
