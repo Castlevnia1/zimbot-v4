@@ -8,7 +8,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮blessedtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/@zim-bot
+//▮YOUTUBE CHANNELL: https://youtube.com/@castlevnia1944
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -162,10 +162,10 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
     
 const reply = (teks) => {
-  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/mlejq2v-Zps")}}})
 }
 const replay = (teks) => {
-  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/mlejq2v-Zps")}}})
 }    
  
 const tempButtons = async (remoteJid, text, footer, content) => {
@@ -178,7 +178,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -197,7 +197,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
  hydratedButtons: content,
 },
 },
@@ -216,7 +216,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -235,7 +235,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -254,7 +254,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -273,7 +273,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -290,7 +290,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -312,7 +312,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -331,7 +331,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -350,7 +350,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -369,7 +369,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -388,7 +388,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -709,7 +709,7 @@ var DADYDR = `
 
  ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ_* 〕
  ┊ʏᴏᴜʀ ᴄʀᴇᴅɪᴛꜱ
- └───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+ └───〔 *Chitoge Bot * 〕
  `
 let message = await prepareWAMessageMedia({ image: bufu, jpegThumbnail:bufu }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -717,11 +717,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: DADYDR,
-hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://youtube.com/@zim-bot"
+      "url": "https://youtube.com/@castlevnia1944"
     }
 }, {
 quickReplyButton: {
@@ -770,11 +770,11 @@ var hg = `
   hydratedTemplate: {
   imageMessage: message.imageMessage,
   hydratedContentText: hg,
-  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+  hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://youtube.com/@zim-bot"
+        "url": "https://youtube.com/@castlevnia1944"
       }
   }, {
   quickReplyButton: {
@@ -819,11 +819,11 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
           hydratedTemplate: {
           imageMessage: message.imageMessage,
           hydratedContentText: hg,
-          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+          hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://youtube.com/@zim-bot"
+                "url": "https://youtube.com/@castlevnia1944"
               }
           }, {
           quickReplyButton: {
@@ -868,11 +868,11 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://youtube.com/@castlevnia1944"
                 }
             }, {
             quickReplyButton: {
@@ -917,11 +917,11 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://youtube.com/@castlevnia1944"
                 }
             }, {
             quickReplyButton: {
@@ -971,7 +971,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://youtube.com/@zim-bot"
+              "url": "https://youtube.com/@castlevnia1944"
               }
             }, {
               quickReplyButton: {
@@ -1022,7 +1022,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://youtube.com/@zim-bot"
+              "url": "https://youtube.com/@castlevnia1944"
               }
             }, {
               quickReplyButton: {
@@ -1064,11 +1064,11 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://youtube.com/@castlevnia1944"
                 }
             }, {
             quickReplyButton: {
@@ -1418,7 +1418,7 @@ setInterval(() => {
 //But5Loc
 var nextMinutes = Math.random() * 300 + 1000;
 setTimeout(function(){
-  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://youtube.com/@zim-bot\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://youtube.com/@castlevnia1944\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/mlejq2v-Zps`, sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
   //anouncement by drips 
 }, nextMinutes * 300 * 1000);
 const send5Butlmg = async (jid , text = '' , footer = '', img, but = [], options = {}) =>{
@@ -1563,7 +1563,7 @@ switch(command) {
     ]
     }
     ]
-    ZimBotInc.sendList(m.chat, `Hi Chomie *${pushname}*`, `Please Select Below`, "CLICK", "ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ ", sectionnya, { quoted: m})
+    ZimBotInc.sendList(m.chat, `Hi Chomie *${pushname}*`, `Please Select Below`, "CLICK", "ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ ", sectionnya, { quoted: m})
     break
     case 'slime':
     case 'killslime':
@@ -1724,7 +1724,7 @@ var button = [
 		{ quickReplyButton: { displayText: `Owner`, id: `${prefix}owner` } }
 		]
         var hg = `「 Memancing 」\n\n ┊ *Capture:* ${ikannya}\n ┊ *Total Get:* ${ditangkap} *Fish*\n ┊ MONEY : $${coin}\n ┊ EXP : ${xp}Xp`
-        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: cing }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`, mentions: [sender] })
+        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: cing }, templateButtons: button, footer: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`, mentions: [sender] })
         .catch ((err) => reply(mess.error))
 }, 6000)
 setTimeout( () => {
@@ -1761,7 +1761,7 @@ var button = [
 		{ quickReplyButton: { displayText: `Owner`, id: `${prefix}owner` } }
 		]
         var hg = `「 DEATH 」\n\n *┊ Place*  ${ad}\n ┊ *MONEY :* $${money}\n ┊ *EXP :* ${adven}Xp`
-        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: hasm }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`, mentions: [sender] })
+        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: hasm }, templateButtons: button, footer: `ᴿᴾᴳ ᴳᵃᵐᵉᴮʸ ᶜᵃˢᵗˡᵉᴮᵒᵗ`, mentions: [sender] })
         .catch ((err) => reply(mess.error))
 }, 7000)
 setTimeout( () => {
@@ -1818,14 +1818,14 @@ downloader.downloadAPK("com.microbees.floatingapp")
  
  
   /*  case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n 𝗕𝗢𝗧 𝗥𝗘𝗡𝗧𝗔𝗟 𝗣𝗥𝗜𝗖𝗘\n 250rands Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/2+447441437150 (ZIM BOT OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : https://i.imgur.com/TfI3QYW.jpg\n` }, { quoted: m })
+   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n 𝗕𝗢𝗧 𝗥𝗘𝗡𝗧𝗔𝗟 𝗣𝗥𝗜𝗖𝗘\n 250rands Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/2+918770333268 (ZIM BOT OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : https://i.imgur.com/TfI3QYW.jpg\n` }, { quoted: m })
  }
  */
  break
  case 'sc': case 'script': case 'donate': case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
   teks = `
-  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://youtube.com/@zim-bot\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
+  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/mlejq2v-Zps\n*GITHUB:* https://youtube.com/@castlevnia1944\n\n*DONATE:* https://www.paypal.com/paypalme/castlebotinc`
   let buttons = [
   {buttonId: `rpgmenu`, buttonText: {displayText: 'RPG'}, type: 1}
   ]
@@ -1842,8 +1842,8 @@ downloader.downloadAPK("com.microbees.floatingapp")
   showAdAttribution: true,
   thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
   mediaType:1,
-  mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
-  sourceUrl: "https://youtu.be/KNu-gr2h7bog"
+  mediaUrl: 'https://youtu.be/mlejq2v-Zps',
+  sourceUrl: "https://youtu.be/mlejq2v-Zpsg"
   }}
   }
   ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -1869,8 +1869,8 @@ downloader.downloadAPK("com.microbees.floatingapp")
   showAdAttribution: true,
   thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
   mediaType:1,
-  mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
-  sourceUrl: "https://youtu.be/KNu-gr2h7bog"
+  mediaUrl: 'https://youtu.be/mlejq2v-Zps',
+  sourceUrl: "https://youtu.be/mlejq2v-Zpsg"
   }}
   }
   ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -2850,7 +2850,7 @@ break
  case 'git': case 'gitclone':
 reply(mess.wait)
  let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
- if(!args[0]) throw 'link github  EXAMPLE: https://youtube.com/@zim-bot/zim-bot-md'
+ if(!args[0]) throw 'link github  EXAMPLE: https://youtube.com/@castlevnia1944/zim-bot-md'
 if (!regex1.test(args[0])) throw 'link!'
    let [, user, repo] = args[0].match(regex1) || []
     repo = repo.replace(/.git$/, '')
@@ -2864,8 +2864,8 @@ if (!regex1.test(args[0])) throw 'link!'
       showAdAttribution: true,
       mediaType:2,
       thumbnail: fs.readFileSync('./drips.jpg'),
-      mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-      sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+      mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+      sourceUrl: `https://youtu.be/mlejq2v-Zps`,
       }}
       })
  
@@ -2884,8 +2884,8 @@ if (!regex1.test(args[0])) throw 'link!'
         showAdAttribution: true,
         mediaType:2,
         thumbnail: fs.readFileSync(`./drips.jpg`) ,
-        mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-        sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+        mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+        sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 break
 case 'ghsearch': 
        case 'githubsearch': 
@@ -2967,7 +2967,7 @@ for (let yoi of anu) {
     let btn = [{
  urlButton: {
   displayText: 'GITHUB',
-  url: 'https://youtube.com/@zim-bot/zimbot-v2'
+  url: 'https://youtube.com/@castlevnia1944/zimbot-v2'
  }
   }, {
  quickReplyButton: {
@@ -3344,8 +3344,8 @@ replay(mess.wait)
  showAdAttribution: true,
  thumbnail: global.thumb,
  mediaType:2,
- mediaUrl: `https://youtu.be/KNu-gr2h7bo`,
- sourceUrl: `https://youtu.be/KNu-gr2h7bo`
+ mediaUrl: `https://youtu.be/mlejq2v-Zps`,
+ sourceUrl: `https://youtu.be/mlejq2v-Zps`
  }}
  }
  ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -3694,7 +3694,7 @@ let buttonMessage = {
         image: buf,
         jpegThumbnail:buf,
         caption: caption,
-        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
         buttons: muziq,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -3732,8 +3732,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
+mediaUrl:`https://wa.me/918770333268`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }
 },
 }, {quoted: m})
 
@@ -3761,8 +3761,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
+mediaUrl:`https://wa.me/918770333268`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }
 }}, {quoted: m})
 break
 case 'ytmp4': case 'ytvideo': 
@@ -3780,7 +3780,7 @@ const v5=await dripsvideo.mp4(text)
 var buf = await getBuffer(v5.thumb)
 let hobho = ('*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...*')
 await ZimBotInc.sendMessage(m.chat, {text: `*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...* `}, {quoted: m})
-ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot*` , quoted: m,contextInfo: { externalAdReply:{
+ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944*` , quoted: m,contextInfo: { externalAdReply:{
 showAdAttribution: true,
 },
 }},{ quoted: m})
@@ -3806,8 +3806,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
-sourceUrl: `https://wa.me/447441437150` }
+mediaUrl:`https://wa.me/918770333268`, 
+sourceUrl: `https://wa.me/918770333268` }
 },
 }, {quoted: m})
 
@@ -3882,8 +3882,8 @@ ZimBotInc.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : ba
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 }
 break
 case 'song': {
@@ -4005,7 +4005,7 @@ case 'ytsaudio': case 'ytsmusic': case 'ytsearchmusic': {
                         m.chat, 
                         {
                         text: `*ϙᴜᴇʀʏ:* \n${text}🎛️`,
-                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
+                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
                         title: `*ʏᴏᴜᴛᴜʙᴇ sᴇᴀʀᴄʜ*`,
                         buttonText: "CLICK HERE",
                         sections
@@ -4045,8 +4045,8 @@ case 'fbdl': case 'fb': case 'facebook': case 'fbvideo': {
       showAdAttribution: true,
       mediaType:2,
       thumbnail: fs.readFileSync(`./drips.jpg`) ,
-      mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-      sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+      mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+      sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
      
        
      }
@@ -4208,12 +4208,12 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 }, {
 quickReplyButton: {
@@ -4307,7 +4307,7 @@ url: `${text}`
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 }, {
 quickReplyButton: {
@@ -4879,7 +4879,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4898,7 +4898,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4931,7 +4931,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://youtube.com/@zim-bot'
+url: 'https://youtube.com/@castlevnia1944'
 }
 },
 {
@@ -5103,8 +5103,8 @@ ZimBotInc.sendMessage(m.chat, { image: buf, jpegThumbnail:buf, caption: `PhotoFi
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 }
  
 //----END HERE-------\\
@@ -5236,8 +5236,8 @@ ZimBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 }
 //----END HERE--------\\
 
@@ -5279,8 +5279,8 @@ ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*PHOTO OXY ${command}*` , 
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 }
 break
 
@@ -5308,8 +5308,8 @@ ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*EPHOTO ${command}*` ,  qu
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps` }}}, {quoted: m})
 }
 break
 
@@ -6123,7 +6123,7 @@ latensie = speed() - timestampe
   anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6150,7 +6150,7 @@ let buttoni = [
         fileName: `ᴢɪᴍ ʙᴏᴛ ɪɴᴄ`,
         fileLength: 99999999999999,
         caption: anu,
-        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
         buttons: buttoni,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -6159,8 +6159,8 @@ let buttoni = [
         showAdAttribution: true,
         mediaType:2,
         thumbnail: fs.readFileSync('./drips.jpg'),
-        mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-        sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+        mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+        sourceUrl: `https://youtu.be/mlejq2v-Zps`,
         }}
         }
         ZimBotInc.sendMessage(m.chat, buttonMessage)
@@ -6169,7 +6169,7 @@ let buttoni = [
 break
   case 'bug': case 'report': {
   if(!text) throw `Enter The Bug Example\n\n${command} Menu Error `
-  ZimBotInc.sendMessage(`447441437150@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
+  ZimBotInc.sendMessage(`918770333268@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
 Report Message: ${text}` })
 reply(`*Successfully reported to the owner\n\nPlease make sure the bug is valid, if you play with this, use this feature again and again for no reason, you will be banned for using zim bot*`)
   }
@@ -6198,7 +6198,7 @@ case 'listmenu':
   m.chat, 
   {
   text: `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 ┌───〔 *_◉ᴜsᴇʀ ɪɴғᴏ◉_* 〕
@@ -6239,7 +6239,7 @@ latensie = speed() - timestampe
 anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6280,7 +6280,7 @@ anu = `
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_◉ᴏᴡɴᴇʀᴍᴇɴᴜ◉_* 〕
@@ -6307,7 +6307,7 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_◉ɢʀᴏᴜᴘᴍᴇɴᴜ◉_* 〕
@@ -6353,7 +6353,7 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_◉ᴛᴇxᴛᴘʀᴏᴍᴇɴᴜ◉_* 〕
@@ -6413,7 +6413,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_ᴅᴏᴡɴʟᴏᴀᴅᴍᴇɴᴜ_* 〕
@@ -6463,7 +6463,7 @@ anu = `
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_ᴘʜᴏᴛꜰɪʟᴛᴇʀᴍᴇɴᴜ_* 〕
@@ -6505,7 +6505,7 @@ anu = `
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_ɴꜱꜰᴡᴍᴇɴᴜ_* 〕
@@ -6529,7 +6529,7 @@ anu = `
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_ᴀɴɪᴍᴇᴍᴇɴᴜ_* 〕
@@ -6574,7 +6574,7 @@ anu = `
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_ꜱᴇᴀʀᴄʜᴍᴇɴᴜ_* 〕
@@ -6604,7 +6604,7 @@ anu = `
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 ┌───〔*_◉ᴇᴘʜᴏᴛᴏ-ᴍᴇɴᴜ◉_*〕
 ┊🪨3d-wood
@@ -6640,7 +6640,7 @@ anu = `
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 ┌───〔 *_◉ᴅᴀᴛᴀʙᴀꜱᴇᴍᴇɴᴜ◉_* 〕
 ┊🪨addmsg -msg-
@@ -6650,7 +6650,7 @@ anu = `
 ┊🪨setcmd -msg-
 ┊🪨delcmd -msg-
 ┊🪨listcmd -msg-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 ┌───〔 *_◉Photooxyᴍᴇɴᴜ◉_* 〕
 ┊🪨silk -text-
@@ -6678,7 +6678,7 @@ anu = `
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
 
 ┌───〔 *_◉ᴍᴇɴᴜ ʀᴘɢ◉_* 〕
@@ -6709,8 +6709,8 @@ anu = `
 └───────────●
 %readmore` 
     var buttonReplyy = [
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `SOURCECODE🍏`, url: `http://dripsofc.tech` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `SOURCECODE🍏`, url: `http://animixplay.tube/` } },
 				{ quickReplyButton: { displayText: `SPEED`, id: `${prefix}ping` } },
                 { quickReplyButton: { displayText: `OWNER`, id: `${prefix}owner` } },
                 { quickReplyButton: { displayText: `LIST`, id: `${prefix}listmenu` } }
@@ -6723,7 +6723,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'OWNER MENU')
 ram3 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6759,14 +6759,14 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 
  var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			tempButtons(from, anu, '', buttonReplyy)
 			}
@@ -6777,7 +6777,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'DATABASE MENU')
 ram4 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6803,9 +6803,9 @@ anu = `
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
  var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			tempButtoni(from, anu, '', buttonReplyy)
 			}
@@ -6815,7 +6815,7 @@ case 'photooxymenu': {
   buffer = await getBuffer(picak+'PHOTOOXY MENU')
   ram5 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6853,13 +6853,13 @@ case 'photooxymenu': {
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			tempButtonie(from, anu, '', buttonReplyy)
 			}
@@ -6869,7 +6869,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'GROUP MENU')
 ram0 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6924,13 +6924,13 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			tempButtono(from, anu, '', buttonReplyy)
 			}
@@ -6939,7 +6939,7 @@ case 'textpromenu': {
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram11 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7008,7 +7008,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 `
 const textpromenus = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'TEXTPROMENU')
@@ -7020,7 +7020,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7031,9 +7031,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var textpromenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			textpromenus(from, anu, '', textpromenui)
 			}
@@ -7042,7 +7042,7 @@ case 'downloadmenu': {
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram22 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7102,7 +7102,7 @@ anu =`
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 `
 const donlod = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'DOWNLOADMENU')
@@ -7114,7 +7114,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7125,9 +7125,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 
 var downloadmenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			donlod(from, anu, '', downloadmenui)
 			}
@@ -7136,7 +7136,7 @@ case 'photofiltermenu':{
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram30 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7188,7 +7188,7 @@ anu =`
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 `
 const photofilter2 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'PHOTOFILTERMENU')
@@ -7200,7 +7200,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7211,9 +7211,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			photofilter2(from, anu, '', buttonReplyy)
 			}
@@ -7223,7 +7223,7 @@ case 'nsfwmenu':{
   buffer = await getBuffer(picak+'NSFW MENU')
   ram35 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7257,7 +7257,7 @@ case 'nsfwmenu':{
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
   `
 const nsfmenu = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'NSFMENU')
@@ -7269,7 +7269,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7280,9 +7280,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			nsfmenu(from, anu, '', buttonReplyy)
 			}
@@ -7292,7 +7292,7 @@ case 'animemenu':{
   ram40 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'ANIME MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7347,7 +7347,7 @@ case 'animemenu':{
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
   `
 const animemenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'ANIMEMENU')
@@ -7359,7 +7359,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7370,9 +7370,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
                   };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
-          { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-          { urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-          { urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+          { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+          { urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+          { urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
         ]
         animemenu1(from, anu, '', buttonReplyy)
         }
@@ -7382,7 +7382,7 @@ case 'convertmenu': {
   ram70 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'CONVERT MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7415,7 +7415,7 @@ case 'convertmenu': {
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
    `
   const convertmenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'CONVERTMENU')
@@ -7427,7 +7427,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7438,9 +7438,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			convertmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7450,7 +7450,7 @@ case 'toolmenu': {
   buffer = await getBuffer(picak+'TOOL MENU')
   ram90 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7479,7 +7479,7 @@ case 'toolmenu': {
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
   `
 const toolmenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'TOOLMENU')
@@ -7491,7 +7491,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7502,9 +7502,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			toolmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7514,7 +7514,7 @@ case 'searchmenu':{
   buffer = await getBuffer(picak+'SEARCH MENU')
   ram200 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7554,7 +7554,7 @@ case 'searchmenu':{
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *Chitoge Bot * 〕
 
   `
   const searchmenu11 = async (remoteJid, text, footer, content) => {
@@ -7567,7 +7567,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7578,9 +7578,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			saerchmenu11(from, anu, '', buttonReplyy)
 			}
@@ -7590,7 +7590,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'EPHOTO MENU')
 ram250 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_Chitoge Bot _* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7627,7 +7627,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@castlevnia1944 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7638,9 +7638,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
                   };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918770333268` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@castlevnia1944` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://animixplay.tube/` } }
 			]
 			ephotomenu11(from, anu, '', buttonReplyy)
 			}

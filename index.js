@@ -64,7 +64,7 @@ say('ZIM-BOT\nV4', {
 Drips.hr();
 console.log(color(''), color('THANKS FOR CHOOSING ZIM BOT', 'green'))
 console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
-console.log(color( ''), color('https://wa.me/+447441437150','cyan'))
+console.log(color( ''), color('https://wa.me/+918770333268','cyan'))
 Drips.hr();
 Drips.banner(`DRIPS ZIM BOT OWNER`)
 Drips.ok('WELCOME TO ZIMBOT')
@@ -194,7 +194,7 @@ mentions: [num],
 fileName: `WELCOME TO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©CASTLE BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
@@ -203,8 +203,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps`,
 }}
 }
 const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
@@ -227,7 +227,7 @@ mentions: [num],
 fileName: `HE/SHE IS GONE BRO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©CASTLE BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
@@ -236,8 +236,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: mhatadzenyu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://youtu.be/mlejq2v-Zps`, 
+sourceUrl: `https://youtu.be/mlejq2v-Zps`,
 }}
 }
 const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
