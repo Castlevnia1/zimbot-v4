@@ -164,12 +164,12 @@ async function startZimBotInc() {
                 } catch {
                     ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
                 }
-              if (anu.action == 'add') {
+              if (anu.action == ' ') {
               if (db.chats[m.chat].localonly) {
               if ( !member.startsWith('263') || !member.startsWith('263'))  {// put your country code for localonly 
-              ZimBotInc.sendMessage(anu.id, { text: `Sorry @${member.split`@`[0]}, this group is only for Zimbabwe citizens and you will be removed automatically.`})
-              ZimBotInc.updateBlockStatus(member, 'block')
-               return await Func.delay(2000).then(() => ZimBotInc.groupParticipantsUpdate(anu.id, [member], 'remove'))
+              ZimBotInc.sendMessage(anu.id, { text: `Sorry @${member.split`@`[0]}, this group is only for Otakus and you will be removed automatically.`})
+              ZimBotInc.updateBlockStatus(member, ' ')
+               return await Func.delay(2000).then(() => ZimBotInc.groupParticipantsUpdate(anu.id, [member], ' '))
                }
                }
                }
