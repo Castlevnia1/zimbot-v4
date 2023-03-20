@@ -79,13 +79,13 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*Chitoge  must be admin first!*',
+    owner: '*this feature is only for Owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment Chitoge is proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }

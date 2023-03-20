@@ -6171,7 +6171,7 @@ break
   if(!text) throw `Enter The Bug Example\n\n${command} Menu Error `
   ZimBotInc.sendMessage(`918770333268@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
 Report Message: ${text}` })
-reply(`*Successfully reported to the owner\n\nPlease make sure the bug is valid, if you play with this, use this feature again and again for no reason, you will be banned for using zim bot*`)
+reply(`*Successfully reported to the owner\n\nPlease make sure the bug is valid, if you play with this, use this feature again and again for no reason, you will be banned for using Chitoge bot*`)
   }
 break 
 case 'listmenu':             
